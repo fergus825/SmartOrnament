@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-atuo">
+    <item
+        android:id="@+id/red"
+        app:showAsAction="never"
+        android:title="侦测模式"/>
+    />
+    <item
+        android:id="@+id/green"
+        app:showAsAction="never"
+        android:title="求助模式"
+        />
+    <item
+        android:id="@+id/blue"
+        app:showAsAction="never"
+        android:title="系统设置"
+        />
+</menu>

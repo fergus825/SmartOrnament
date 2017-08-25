@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:id="@+id/ll_guard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+        <ImageView
+            android:id="@+id/iv_guard"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:background="@drawable/dangerous"/>
+
+        <Button
+            android:id="@+id/btn_startService"
+            android:layout_width="235dp"
+            android:layout_height="wrap_content"
+            android:text="开启侦测模式"
+            android:textSize="22sp"
+            android:textColor="#ffffff"
+            android:background="@drawable/startservice_bg"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"/>
+    </LinearLayout>
+
+<com.edu.chzu.fg.smartornament.view.RippleBackground
+    android:id="@+id/ripplebackgroud"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:rb_color="#0099CC"
+    app:rb_radius="32dp"
+    app:rb_rippleAmount="10"
+    app:rb_duration="4000"
+    app:rb_scale="8"
+    android:visibility="gone"
+   >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="智能挂饰正在为您保驾护航..."
+        android:layout_marginTop="35dp"
+        android:textSize="20dp"
+        android:textColor="@color/rippelColor"
+        android:gravity="center_horizontal"/>
+    <ImageView
+        android:id="@+id/centerImage"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:src="@drawable/protecting"
+        android:layout_centerInParent="true"/>
+</com.edu.chzu.fg.smartornament.view.RippleBackground>
+
+</LinearLayout>

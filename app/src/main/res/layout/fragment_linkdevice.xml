@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:id="@+id/iv_conntect"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:background="@drawable/connect_device"
+        android:scaleType="fitXY"/>
+
+    <!--<Button
+        android:id="@+id/btn_search"
+        android:layout_width="285dp"
+        android:layout_height="wrap_content"
+        android:text="请连接设备"
+        android:layout_gravity="center"
+        android:textSize="20sp"
+        android:layout_marginTop="10dp"/>-->
+    <com.edu.chzu.fg.smartornament.view.progress_button.CircularProgressButton
+        android:id="@+id/cpb_connect"
+        android:layout_width="196dp"
+        android:layout_height="50dp"
+        android:textColor="@color/cpb_white"
+        android:textSize="18sp"
+        app:cpb_cornerRadius="48dp"
+        app:cpb_iconComplete="@drawable/ic_action_accept"
+        app:cpb_iconError="@drawable/ic_action_cancel"
+        app:cpb_textIdle="请连接设备"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"/>
+</LinearLayout>

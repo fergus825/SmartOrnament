@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="guillotine_background">#3B9EB2</color>
+    <color name="guillotine_background_dark">#383547</color>
+    <color name="selected_item_color">#30d1d5</color>
+
+    <color name="black">#000000</color><!--黑色 -->
+    <color name="btntextcolor">#ff1E90FF</color><!--dialog中按钮字体颜色 -->
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/rootview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.edu.chzu.fg.smartornament.activity.MainActivity">
+     <!-- <View
+          android:id="@+id/tagBarBackgroud"
+          android:layout_gravity="top"
+          android:layout_width="match_parent"
+          android:layout_height="35dp"
+          android:background="@color/guillotine_background"
+          />-->
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:orientation="vertical">
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/toolbar"
+                app:contentInsetStart="0dp"
+                style="@style/Toolbar">
+
+                  <ImageView
+                      android:id="@+id/content_hamburger"
+                      style="@style/ImageView.Hamburger"
+                      android:src="@drawable/ic_menu_90" />
+
+                  <TextView
+                      android:id="@+id/txt_title"
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:layout_gravity="center"
+                      android:text="设备连接"
+                      android:textSize="20sp"
+                      android:textColor="#ffffff"/>
+            </android.support.v7.widget.Toolbar>
+
+            <RelativeLayout
+                android:id="@+id/fl_container"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                ></RelativeLayout>
+
+      </LinearLayout>
+
+</FrameLayout>
