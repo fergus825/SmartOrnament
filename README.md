@@ -3,8 +3,8 @@
 
 #系统软件演示及详解说明视频[http://v.youku.com/v_show/id_XMjgwNTAxOTM2NA==.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2]
  
-![image](http://github.com/用户名/仓库名/raw/master/存放图片的文件夹/图片.jpg)
+
 
 ![系统登录](http://github.com/fergus825/SmartOrnament/raw/master/image/login.gif)
 
-![image](http://github.com/用户名/仓库名/raw/master/image/systemStructure)
+![系统架构](http://github.com/用户名/仓库名/raw/master/image/systemStructure)
