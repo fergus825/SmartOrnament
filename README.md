@@ -5,6 +5,6 @@
  
 
 
-![系统登录](http://github.com/fergus825/SmartOrnament/raw/master/image/login.gif)
+![系统登录](https://github.com/fergus825/SmartOrnament/raw/master/image/login.gif)
 
-![系统架构](http://github.com/fergus825/SmartOrnament/raw/master/image/systemStructure.png)
+![系统架构](https://github.com/fergus825/SmartOrnament/raw/master/image/systemStructure.png)
