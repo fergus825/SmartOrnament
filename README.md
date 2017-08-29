@@ -3,3 +3,7 @@
 
 #系统软件演示视频[http://v.youku.com/v_show/id_XMjgwNTAxOTM2NA==.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2]
 <iframe height=498 width=510 src="http://v.youku.com/v_show/id_XMjgwNTAxOTM2NA==.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2">
+<iframe height=498 width=510 src="http://player.youku.com/embed/XNjcyMDU4Njg0">
+
+
+<iframe height=500 width=500 src="http://ww4.sinaimg.cn/mw690/e75a115bgw1f3rrbzv1m8g209v0diqv7.gif">
