@@ -8,39 +8,57 @@
 <img src="https://github.com/fergus825/SmartOrnament/raw/master/image/login.gif" width="30%" height="30%"/>
 </div>
 
-展示系统设置
-![展示系统设置](https://github.com/fergus825/SmartOrnament/raw/master/image/menuSettings.gif)
+<div align=center>展示系统设置</div>
+<div align=center>
+<img src="https://github.com/fergus825/SmartOrnament/raw/master/image/menuSettings.gif" width="30%" height="30%"/>
+</div>
 
-设置紧急联系人
-![设置紧急联系人](https://github.com/fergus825/SmartOrnament/raw/master/image/chooseContacter.gif)
+<div align=center>设置紧急联系人</div>
+<div align=center>
+<img src="https://github.com/fergus825/SmartOrnament/raw/master/image/chooseContacter.gif" width="30%" height="30%"/>
+</div>
 
-连接挂饰失败
-![连接挂饰失败](https://github.com/fergus825/SmartOrnament/raw/master/image/connectFailed.gif)
+<div align=center>连接挂饰失败</div>
+<div align=center>
+<img src="https://github.com/fergus825/SmartOrnament/raw/master/image/connectFailed.gif" width="30%" height="30%"/>
+</div>
 
-连接挂饰成功
-![连接挂饰成功](https://github.com/fergus825/SmartOrnament/raw/master/image/connectSucced.gif)
+<div align=center>连接挂饰成功</div>
+<div align=center>
+<img src="https://github.com/fergus825/SmartOrnament/raw/master/image/connectSucced.gif" width="30%" height="30%"/>
+</div>
 
-开启侦测模式
-![开启侦测模式](https://github.com/fergus825/SmartOrnament/raw/master/image/startService.gif)
+<div align=center>开启侦测模式</div>
+<div align=center>
+<img src="https://github.com/fergus825/SmartOrnament/raw/master/image/startService.gif" width="30%" height="30%"/>
+</div>
 
-演示系统功能
-![演示系统功能](https://github.com/fergus825/SmartOrnament/raw/master/image/showFuctions.gif)
+<div align=center>演示系统功能</div>
+<div align=center>
+<img src="https://github.com/fergus825/SmartOrnament/raw/master/image/showFuctions.gif" width="30%" height="30%"/>
+</div>
 
-一键呼救功能
-![一键呼救功能](https://github.com/fergus825/SmartOrnament/raw/master/image/sos.gif)
+<div align=center>一键呼救功能</div>
+<div align=center>
+<img src="https://github.com/fergus825/SmartOrnament/raw/master/image/sos.gif" width="30%" height="30%"/>
+</div>
 
-退出侦测模式
-![退出侦测模式](https://github.com/fergus825/SmartOrnament/raw/master/image/stopService.gif)
+<div align=center>退出侦测模式</div>
+<div align=center>
+<img src="https://github.com/fergus825/SmartOrnament/raw/master/image/stopService.gif" width="30%" height="30%"/>
+</div>
 
-<center>
+<div align=center>展示自动发出的求救短信</div>
+<div align=center>
 <img src="https://github.com/fergus825/SmartOrnament/raw/master/image/checkMsg.gif" width="30%" height="30%"/>
-展示自动发出的求救短信
-</center>
+</div>
 
-<center>
-系统架构
+<div align=center>系统架构</div>
+<div align=center>
 <img src="https://github.com/fergus825/SmartOrnament/raw/master/image/systemStructure.png" width="80%" height="80%"/>
-</center>
+</div>
 
-系统功能模块
-![系统功能模块](https://github.com/fergus825/SmartOrnament/raw/master/image/systemModel.png)
+<div align=center>系统功能模块</div>
+<div align=center>
+<img src="https://github.com/fergus825/SmartOrnament/raw/master/image/systemModel.png" width="80%" height="80%"/>
+</div>
