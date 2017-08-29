@@ -7,3 +7,4 @@
 
 ![系统登录](http://github.com/fergus825/SmartOrnament/raw/master/image/login.gif)
 
+![image](http://github.com/用户名/仓库名/raw/master/image/systemStructure)
