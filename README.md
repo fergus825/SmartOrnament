@@ -3,8 +3,8 @@
 
 系统软件演示及详解说明视频[https://v.youku.com/v_show/id_XMjgwNTAxOTM2NA==.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2]
 
+<div align=center>软件登陆</div>
 <div align=center>
-软件登录演示
 <img src="https://github.com/fergus825/SmartOrnament/raw/master/image/login.gif" width="30%" height="30%"/>
 </div>
 
